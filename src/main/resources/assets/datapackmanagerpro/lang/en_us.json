@@ -1,0 +1,10 @@
+{
+  "screen.datapackmanagerpro.title": "My Datapacks",
+  "screen.datapackmanagerpro.refresh": "Refresh list",
+  "screen.datapackmanagerpro.open_folder": "Open folder",
+  "screen.datapackmanagerpro.close": "Back",
+  "screen.datapackmanagerpro.empty": "No datapacks found in global_datapacks",
+  "screen.datapackmanagerpro.count": "Datapacks found: %s",
+  "screen.datapackmanagerpro.folder_error": "Could not open folder",
+  "screen.datapackmanagerpro.invalid": "Datapack has no valid pack.mcmeta"
+}
