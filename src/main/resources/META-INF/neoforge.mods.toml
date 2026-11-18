@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="datapackmanagerpro"
+version="1.0.0"
+displayName="Datapack Manager Pro"
+authors="AguchichuPro"
+description='''Visual global datapack library for Minecraft Java 1.21.1.'''
+
+[[dependencies.datapackmanagerpro]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.256,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.datapackmanagerpro]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"
